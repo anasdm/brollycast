@@ -1,4 +1,4 @@
-#BrollyCast☂️: A simple MLOps Pipeline for precipitation forecasting using ERA5 Data
+# BrollyCast☂️: A simple MLOps Pipeline for precipitation forecasting using ERA5 Data
 
 An end-to-end Machine Learning pipeline for short-term precipitation forecasting. This project ingests raw meteorological netCDF data, trains a custom neural network using chronological time-series validation, and serves predictions via a containerised REST API.
 
